@@ -1,3 +1,1 @@
-docker service update 
-  --image lseal98/express_poc_api:v2
-express_poc_api
+docker service update --image lseal98/express_poc_api:v2 express_poc_api
